@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>PhpTravel_account</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description>Strona aplikacji phptravels</description>
+      <initValue>'https://www.phptravels.net/home'</initValue>
+      <name>url</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>login użytkownika</description>
+      <initValue>'user@phptravels.com'</initValue>
+      <name>LoginId</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>hasło</description>
+      <initValue>'6weEYLVRi3+STmppai9GiQ=='</initValue>
+      <name>pwd</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

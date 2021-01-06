@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC Logowanie poprawne do aplikacji</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5a2753ee-3322-44e4-8c2f-ffc2bba5c126</testCaseGuid>
+</TestCaseEntity>

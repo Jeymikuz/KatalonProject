@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>MyProfile_Dane</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator>SEMICOLON</csvSeperator>
+   <dataFileGUID>ebcd799d-9812-4770-8fb7-604726037b89</dataFileGUID>
+   <dataSourceUrl>C:\Users\Foka\Katalon Studio\ProjektZaliczeniowy\file.csv</dataSourceUrl>
+   <driver>CSV</driver>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

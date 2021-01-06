@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC Logowanie oraz zakup produktu w sklepie</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5a72ebcd-44b3-4a1c-b896-3619638b44b3</testCaseGuid>
+</TestCaseEntity>
